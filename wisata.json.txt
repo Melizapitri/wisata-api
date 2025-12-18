@@ -3,36 +3,37 @@
     "nama": "Pantai Kuta",
     "lokasi": "Bali",
     "deskripsi": "Pantai terkenal di Bali dengan sunset indah",
-    "gambar": "https://share.google/kHVi9n68DrLVdIF33"
+    "gambar": ""https://picsum.photos/400/300?random=1"
   },
   {
     "nama": "Candi Borobudur",
     "lokasi": "Magelang, Jawa Tengah",
     "deskripsi": "Candi Buddha terbesar di dunia",
-    "gambar": "https://share.google/EB1P9S3ReGz1lhiRk"
+    "gambar": ""https://picsum.photos/400/300?random=2"
   },
   {
     "nama": "Danau Toba",
     "lokasi": "Sumatera Utara",
     "deskripsi": "Danau vulkanik terbesar di Indonesia",
-    "gambar": "https://share.google/hsPPwsuO75iBOb4Vs"
+    "gambar": ""https://picsum.photos/400/300?random=3"
   },
   {
     "nama": "Gunung Bromo",
     "lokasi": "Jawa Timur",
     "deskripsi": "Gunung berapi dengan panorama matahari terbit",
-    "gambar": "https://share.google/uProkkbEu6nnaOaqJ"
+    "gambar": ""https://picsum.photos/400/300?random=4"
   },
   {
     "nama": "Raja Ampat",
     "lokasi": "Papua Barat",
     "deskripsi": "Surga bawah laut Indonesia",
-    "gambar": "https://share.google/zZufDal6kKk5FQ0Gm"
+    "gambar": ""https://picsum.photos/400/300?random=5"
   },
   {
     "nama": "Labuan Bajo",
     "lokasi": "NTT",
     "deskripsi": "Gerbang menuju Pulau Komodo",
-    "gambar": "https://share.google/oGv3rcOzen3ubeWDh"
+    "gambar": ""https://picsum.photos/400/300?random=6"
   }
 ]
+
