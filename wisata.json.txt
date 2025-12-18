@@ -3,36 +3,36 @@
     "nama": "Pantai Kuta",
     "lokasi": "Bali",
     "deskripsi": "Pantai terkenal di Bali dengan sunset indah",
-    "gambar": "https://source.unsplash.com/600x400/?kuta-beach,bali,beach"
+    "gambar": "https://source.unsplash.com/featured/600x400/?kuta,beach,bali"
   },
   {
     "nama": "Candi Borobudur",
     "lokasi": "Magelang, Jawa Tengah",
     "deskripsi": "Candi Buddha terbesar di dunia",
-    "gambar": "https://source.unsplash.com/600x400/?borobudur,temple,indonesia"
+    "gambar": "https://source.unsplash.com/featured/600x400/?borobudur,temple"
   },
   {
     "nama": "Danau Toba",
     "lokasi": "Sumatera Utara",
     "deskripsi": "Danau vulkanik terbesar di Indonesia",
-    "gambar": "https://source.unsplash.com/600x400/?lake-toba,indonesia,lake"
+    "gambar": "https://source.unsplash.com/featured/600x400/?lake,toba"
   },
   {
     "nama": "Gunung Bromo",
     "lokasi": "Jawa Timur",
     "deskripsi": "Gunung berapi dengan panorama matahari terbit",
-    "gambar": "https://source.unsplash.com/600x400/?mount-bromo,volcano,indonesia"
+    "gambar": "https://source.unsplash.com/featured/600x400/?bromo,mountain"
   },
   {
     "nama": "Raja Ampat",
     "lokasi": "Papua Barat",
     "deskripsi": "Surga bawah laut Indonesia",
-    "gambar": "https://source.unsplash.com/600x400/?raja-ampat,island,sea"
+    "gambar": "https://source.unsplash.com/featured/600x400/?raja-ampat,sea"
   },
   {
     "nama": "Labuan Bajo",
     "lokasi": "NTT",
     "deskripsi": "Gerbang menuju Pulau Komodo",
-    "gambar": "https://source.unsplash.com/600x400/?labuan-bajo,komodo,island"
+    "gambar": "https://source.unsplash.com/featured/600x400/?labuan-bajo,komodo"
   }
 ]
